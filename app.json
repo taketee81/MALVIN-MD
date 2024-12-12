@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "GM9inbxL#IMOvt8cB310HfDFOM4LwP5ir5YNBMlwxZWj05DNshME",
+      "description": "SESSION_ID",
       "required": true,
-      "value": ""
+      "value": "vV1UCZZJ#bPYCw8ETL2A4DyGoFlByWIUeyCQXFXqWuD3uX0KnYLM"
     },  
     
     "ALIVE_IMG": {
@@ -28,7 +28,7 @@
     "PREFIX": {
       "description": " prefix.",
       "required": true,
-      "value": "."
+      "value": "+"
     },
     
     "MODE": {
