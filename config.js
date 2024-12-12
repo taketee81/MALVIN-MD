@@ -6,9 +6,9 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "GM9inbxL#IMOvt8cB310HfDFOM4LwP5ir5YNBMlwxZWj05DNshME",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "vV1UCZZJ#bPYCw8ETL2A4DyGoFlByWIUeyCQXFXqWuD3uX0KnYLM",  // ADD Your Session Id 
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
-PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
+PREFIX: process.env.PREFIX || "+",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
 BOT_NAME: process.env.BOT_NAME || "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 v2",
 ///=================When editing, do not accidentally delete anything !!CUSTOM-SETTING-CONFIG=====================
@@ -17,7 +17,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "true", //add true or false
 AUTO_REPLY: process.env.AUTO_REPLY || "true", //add true or false
 ANTI_LINK: process.env.ANTI_LINK || "true", //add true or false
 ANTI_BAD: process.env.ANTI_BAD || "true", //add true or false
-FAKE_RECORDING: process.env.FAKE_RECORDING || "true", //add true or false
+FAKE_RECORDING: process.env.FAKE_RECORDING || "false", //add true or false
 AUTO_REACT: process.env.AUTO_REACT || "true", //add true or false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //add true or false
 ///=================When editing, do not accidentally delete anything. !!API-CONFIG=================================
